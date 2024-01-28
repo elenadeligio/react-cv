@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-cv/static/css/main.a467d9dc.css",
+    "main.js": "/react-cv/static/js/main.4d5179c1.js",
+    "static/media/avatar.jpg": "/react-cv/static/media/avatar.ba238715aa3150dd0bc0.jpg",
+    "static/media/instagram.svg": "/react-cv/static/media/instagram.db248de4ea0ce11de0af882855271485.svg",
+    "static/media/twitter.svg": "/react-cv/static/media/twitter.1deb0aca8867e88f706d31ef46426bc4.svg",
+    "static/media/cv.svg": "/react-cv/static/media/cv.20d663af6dd4d03b8137a9fbcccb23df.svg",
+    "static/media/youtube.svg": "/react-cv/static/media/youtube.7f60f387e5097ab2142933c7c61962f5.svg",
+    "static/media/linkedin.svg": "/react-cv/static/media/linkedin.b607bef5b4b2bdd31366a4af96f3a774.svg",
+    "static/media/portfolio.svg": "/react-cv/static/media/portfolio.8dfaddbfecc60b0b4ed4558eec0da95e.svg",
+    "static/media/home.svg": "/react-cv/static/media/home.d538ddded5c4e4bff0d93a8dcf460c51.svg",
+    "index.html": "/react-cv/index.html",
+    "static/media/facebook.svg": "/react-cv/static/media/facebook.3a228da548eb22d96b4d870513f1bbea.svg",
+    "static/media/contact.svg": "/react-cv/static/media/contact.8242c3cb68c9d56f188330edde6a6c13.svg",
+    "static/media/75.svg": "/react-cv/static/media/75.1de9ebd26aaaa82d16fe51f150b4707b.svg",
+    "static/media/80.svg": "/react-cv/static/media/80.707a79db863c3ab9ea3ae1d6fe41bad3.svg",
+    "static/media/85.svg": "/react-cv/static/media/85.0c39e5efd4991e89c0c3311be1ffccfa.svg",
+    "static/media/95.svg": "/react-cv/static/media/95.f5e006f26b5c98a676cc09f5ed03db03.svg",
+    "static/media/skill.svg": "/react-cv/static/media/skill.8024614410072a1949d6f30177c99cb1.svg",
+    "main.a467d9dc.css.map": "/react-cv/static/css/main.a467d9dc.css.map",
+    "main.4d5179c1.js.map": "/react-cv/static/js/main.4d5179c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a467d9dc.css",
+    "static/js/main.4d5179c1.js"
+  ]
+}
