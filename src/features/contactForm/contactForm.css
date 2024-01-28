@@ -1,0 +1,53 @@
+form {
+    width: 970px;
+    height: 535px;
+    background: var(--white);
+    padding-top: 30px;
+}
+
+label {
+    color: var(--dark-gray);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 123.6%;
+    padding-left: 40px;
+
+}
+
+input {
+    width: 880px;
+    height: 30px;
+    margin: 8px 40px 26px 40px;
+    background: var(--color-gray);
+}
+
+.message {
+    width: 880px;
+    height: 120px;
+}
+
+.errorInput {
+    border-color: indianred;
+}
+
+input[type="submit"] {
+    width: 270px;
+    height: 35px;
+    background-color: var(--yellow);
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: var(--black);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+input[type="submit"]:hover {
+    background-color: var(--light-yellow);
+}
+

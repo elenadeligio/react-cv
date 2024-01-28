@@ -1,0 +1,10 @@
+@import "../../styles/variables.css";
+
+.headerSecondary {
+    color: var(--black);
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 80%;
+    text-align: center;
+}

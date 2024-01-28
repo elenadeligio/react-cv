@@ -1,0 +1,6 @@
+@import "../../styles/variables.css";
+
+.rightPanel {
+    width: 100px;
+    background-color: var( --color-light-gray);
+}

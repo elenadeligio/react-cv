@@ -1,0 +1,50 @@
+@import "../../styles/variables.css";
+
+.header {
+    background: var(--white);
+    width: 100%;
+    min-height: 450px;
+}
+
+.header1 {
+    width: 500px;
+    color: var(--black);
+    margin-left: 100px;
+    font-size: 51px;
+    font-style: normal;
+    line-height: 123.6%;
+    font-weight: 700;
+}
+
+.header2 {
+    width: 424px;
+    height: 88px;
+    color: var(--dark-gray);
+    margin-left: 100px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.highlight {
+    color: var(--yellow);
+}
+
+.button {
+    width: 154px;
+    height: 51px;
+    display: flex;
+    margin: 40px 0 74px 100px;
+    justify-content: center;
+    border-radius: 5px;
+    background: var(--yellow);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.button:hover {
+    background-color: var(--light-yellow);
+}
+
